@@ -399,12 +399,13 @@ iframe {
 }
 
 .home__image {
-    width: 550px;
-    height: 720px;
+    width: 220px;
 }
 
 .home__img {
     position: relative;
+    height: 380px;
+    width: 440px;
     z-index: 10;
 }
 
