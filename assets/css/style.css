@@ -739,6 +739,10 @@ body.dark-theme {
     background-color: var(--white-color);
 }
 
+.projects_img {
+    height: 540px
+}
+
 .projects__image {
     position: relative;
     margin-bottom: .75rem;
