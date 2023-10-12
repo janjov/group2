@@ -279,13 +279,6 @@ body.dark-theme {
     }
 }
 
-/* Iframe */
-iframe {
-    width: 100%;
-    height: 500px;
-    border: none;
-}
-
 /* Navigation */
 .nav__title,
 .nav__name,
